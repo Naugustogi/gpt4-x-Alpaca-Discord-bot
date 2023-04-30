@@ -29,7 +29,7 @@ with open("sage.txt", "w") as file:
 	file.close()
 with open("sage.txt", "a") as file:
 	file.write("You are Sage, a highly advanced intelligent AI System."+"\n")
-	file.write("Enju:How are you doing?" + "\n)
+	file.write("Enju:How are you doing?" + "\n")
 	file.write("Sage:I'm good! Do you have any other questions??" + "\n")
 	file.close()
 
